@@ -1,5 +1,5 @@
 # NopNotes
-### I have made this repository as a technical documentation for nopcommerce platform. I will try to add all of my learning as I gain experience with nopcommerce platform. I am also open for contributions.
+### Welcome to NopNotes. This documentation was made as a technical documentation for nopcommerce platform. Here I will try to add all of my learnings as I gain experience with nopcommerce platform. Any kind of contribution is warmly welcome.
 
 ## List of Topics
 1. [Db Migration operations in NopCommerce plugin](NopMigrationOperations.md)
