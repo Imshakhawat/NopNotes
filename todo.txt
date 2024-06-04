@@ -1,0 +1,8 @@
+1. data tables
+2. services
+3. db operations
+4. specifc uses cases/scenerios
+5. coding conventions
+6. how specific features work like how http requests works
+7. how to register a service
+8. how setttings works/multistore works etc
