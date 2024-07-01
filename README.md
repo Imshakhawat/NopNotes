@@ -9,7 +9,7 @@
 
 ## Important Interfaces of NopCommerce
 ### Core services
- 1. [IAclService](Interaces\Services\CoreServices\IAclService.md)
+ 1. [IAclService](Interaces/Services/CoreServices/IAclService.md)
  2. [IAuthenticationService](Interaces\Services\CoreServices\IAuthenticationService.md)
  3. [ICacheKeyService](Interaces\Services\CoreServices\ICacheKeyService.md)
  4. [IDownloadService](Interaces\Services\CoreServices\IDownloadService.md)
