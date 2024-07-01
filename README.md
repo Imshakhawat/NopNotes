@@ -25,3 +25,29 @@
  14. [ISeoService](Interaces\Services\CoreServices\ISeoService.md)
  15. [ISettingService](Interaces\Services\CoreServices\ISettingService.md)
  16. [IWorkContext](Interaces\Services\CoreServices\IWorkContext.md)
+
+ ### Client End service
+1. [ICustomerAttributeParser](Interaces\Services\ClientEndServices\ICustomerAttributeParser.md)
+ 2. [ICustomerRegistrationService](Interaces\Services\ClientEndServices\ICustomerRegistrationService.md)
+ 3. [ICustomerService](Interaces\Services\ClientEndServices\ICustomerService.md)
+ 4. [IOrderService](Interaces\Services\ClientEndServices\IOrderService.md)
+ 5. [IPaymentService](Interaces\Services\ClientEndServices\IPaymentService.md)
+ 6. [IProductAttributeService](Interaces\Services\ClientEndServices\IProductAttributeService.md)
+ 7. [IProductService](Interaces\Services\ClientEndServices\IProductService.md)
+ 8. [IShippingService](Interaces\Services\ClientEndServices\IShippingService.md)
+ 9. [IShoppingCartService](Interaces\Services\ClientEndServices\IShoppingCartService.md)
+ 10. [IStoreService](Interaces\Services\ClientEndServices\IStoreService.md)
+
+ ### Other services
+ 1. [IDateTimeHelper](Interaces\Others\IDateTimeHelper.md)
+2. [IExportManager](Interaces\Others\IExportManager.md)
+3. [IImportManager](Interaces\Others\IImportManager.md)
+4. [ILogger](Interaces\Others\ILogger.md)
+5. [IStoreContext](Interaces\Others\IStoreContext.md)
+6. [IThemeProvider](Interaces\Others\IThemeProvider.md)
+
+
+
+
+
+
